@@ -64,9 +64,6 @@ HEADER STYLING
 		-webkit-transform: translateY(-50%);
 		-ms-transform: translateY(-50%);
 		transform: translateY(-50%);
-		-webkit-transform: translateX(+75%);
-		-ms-transform: translateX(+75%);
-		transform: translateX(+75%);
 		@include container(800px); 
 	}
 
