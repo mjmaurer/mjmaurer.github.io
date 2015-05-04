@@ -1,0 +1,26 @@
+title: Michael Maurer
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: http://michaelmaurer.me
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: mjmaurer
+   facebook: brianmaierjr
+   email: mjmaurer777@gmail.com
+
+google_analytics: "UA-58263416-1"
