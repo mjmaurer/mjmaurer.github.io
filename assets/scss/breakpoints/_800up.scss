@@ -61,12 +61,9 @@ HEADER STYLING
 	.container {
 		position: relative;
 		top: 50%;
-		-webkit-transform: translateY(-50%);
-		-ms-transform: translateY(-50%);
-		transform: translateY(-50%);
-		-webkit-transform: translateX(+75%);
-		-ms-transform: translateX(+75%);
-		transform: translateX(+75%);
+		-webkit-transform: translate(24%, -50%);
+		-ms-transform: translate(24%, -50%);
+		transform: translate(24%, -50%);
 		@include container(800px); 
 	}
 
