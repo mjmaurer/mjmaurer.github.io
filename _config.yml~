@@ -1,7 +1,7 @@
 title: Michael Maurer
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: michaelmaurer.me
+url: http://michaelmaurer.me
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
