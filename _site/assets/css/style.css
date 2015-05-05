@@ -728,7 +728,7 @@ a:hover {
 .nav-collapse ul li {
     width: 100%;
     display: block;
-    background: seagreen;
+    background: orange;
     border-bottom: 2px solid #349e63
 }
 .nav-collapse ul li a {
@@ -761,7 +761,7 @@ a:hover {
     float: right;
     line-height: 2em;
     margin-top: .5em;
-    background-color: seagreen;
+    background-color: orange;
     border-radius: 4px;
     padding: 0 .5em;
     color: white;
@@ -794,7 +794,7 @@ dd {
     padding-top: 1em
 }
 .header {
-    background-color: seagreen;
+    background-color: orange;
     background-image: url("../img/touring.jpg");
     background-size: cover;
     background-position: center center;
@@ -843,7 +843,7 @@ dd {
     content: "";
     position: absolute;
     top: -1.25em;
-    background: seagreen;
+    background: orange;
     display: block;
     height: 2px;
     width: 150px;
@@ -853,7 +853,7 @@ dd {
     content: "";
     position: absolute;
     bottom: -1.25em;
-    background: seagreen;
+    background: orange;
     display: block;
     height: 2px;
     width: 150px;
@@ -1098,9 +1098,9 @@ dd {
     .header .container {
         position: relative;
         top: 50%;
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
-        transform: translateY(-50%);
+        -webkit-transform: translate(50%, -50%);
+        -ms-transform: translate(50%, -50%);
+        transform: translate(50%, -50%);
         max-width: 800px;
         margin-left: auto;
         margin-right: auto
