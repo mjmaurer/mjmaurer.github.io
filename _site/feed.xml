@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Long Haul</title>
+    <title>Michael Maurer</title>
     <description>Long Form Jekyll theme built with SASS / COMPASS / SUSY</description>
-    <link>http://brianmaierjr.github.com/long-haul/</link>
-    <atom:link href="http://brianmaierjr.github.com/long-haul/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 May 2015 01:18:59 -0400</pubDate>
-    <lastBuildDate>Mon, 04 May 2015 01:18:59 -0400</lastBuildDate>
+    <link>http://michaelmaurer.me/</link>
+    <atom:link href="http://michaelmaurer.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 May 2015 18:13:07 -0400</pubDate>
+    <lastBuildDate>Tue, 05 May 2015 18:13:07 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       
@@ -70,8 +70,8 @@
 </description>
         
         <pubDate>Mon, 15 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/example-post-formatting/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/example-post-formatting/</guid>
+        <link>http://michaelmaurer.me/blog/example-post-formatting/</link>
+        <guid isPermaLink="true">http://michaelmaurer.me/blog/example-post-formatting/</guid>
         
         
       </item>
@@ -97,8 +97,8 @@
 </description>
         
         <pubDate>Sun, 14 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/featured-image/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/featured-image/</guid>
+        <link>http://michaelmaurer.me/blog/featured-image/</link>
+        <guid isPermaLink="true">http://michaelmaurer.me/blog/featured-image/</guid>
         
         
       </item>
@@ -124,8 +124,8 @@
 </description>
         
         <pubDate>Sat, 13 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/code-snippet/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/code-snippet/</guid>
+        <link>http://michaelmaurer.me/blog/code-snippet/</link>
+        <guid isPermaLink="true">http://michaelmaurer.me/blog/code-snippet/</guid>
         
         
       </item>
@@ -161,8 +161,8 @@
 </description>
         
         <pubDate>Fri, 12 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/figure-with-caption/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/figure-with-caption/</guid>
+        <link>http://michaelmaurer.me/blog/figure-with-caption/</link>
+        <guid isPermaLink="true">http://michaelmaurer.me/blog/figure-with-caption/</guid>
         
         
       </item>
@@ -190,8 +190,8 @@
 </description>
         
         <pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/image-in-post/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/image-in-post/</guid>
+        <link>http://michaelmaurer.me/blog/image-in-post/</link>
+        <guid isPermaLink="true">http://michaelmaurer.me/blog/image-in-post/</guid>
         
         
       </item>
@@ -217,8 +217,8 @@
 </description>
         
         <pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate>
-        <link>http://brianmaierjr.github.com/long-haul/blog/test-post/</link>
-        <guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/test-post/</guid>
+        <link>http://michaelmaurer.me/blog/test-post/</link>
+        <guid isPermaLink="true">http://michaelmaurer.me/blog/test-post/</guid>
         
         
       </item>
