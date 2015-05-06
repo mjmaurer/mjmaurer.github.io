@@ -1,22 +1,26 @@
 title: Michael Maurer
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: A webpage of one of the many Michael Maurers of the world
 
 url: http://michaelmaurer.me
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "/categories/page:num/"
+permalink: /:categories/:title/
 
 markdown: redcarpet
 highlighter: pygments
 paginate: 5
 
 navigation:
- - title: Home
+ - title: home
    url: /index.html
- - title: About
+ - title: about
    url: /about
- - title: Contact
+ - title: contact
    url: /contact
+ - title: blog
+   url: /blog
+ - title: dreamJournal
+   url: /dreamJournal
 
 social:
    github: mjmaurer

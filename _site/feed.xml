@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Maurer</title>
-    <description>Long Form Jekyll theme built with SASS / COMPASS / SUSY</description>
+    <description>A webpage of one of the many Michael Maurers of the world</description>
     <link>http://michaelmaurer.me/</link>
     <atom:link href="http://michaelmaurer.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 May 2015 18:28:04 -0400</pubDate>
-    <lastBuildDate>Tue, 05 May 2015 18:28:04 -0400</lastBuildDate>
+    <pubDate>Tue, 05 May 2015 21:33:51 -0400</pubDate>
+    <lastBuildDate>Tue, 05 May 2015 21:33:51 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       
@@ -74,6 +74,8 @@
         <guid isPermaLink="true">http://michaelmaurer.me/blog/example-post-formatting/</guid>
         
         
+        <category>blog</category>
+        
       </item>
       
     
@@ -101,6 +103,8 @@
         <guid isPermaLink="true">http://michaelmaurer.me/blog/featured-image/</guid>
         
         
+        <category>blog</category>
+        
       </item>
       
     
@@ -127,6 +131,8 @@
         <link>http://michaelmaurer.me/blog/code-snippet/</link>
         <guid isPermaLink="true">http://michaelmaurer.me/blog/code-snippet/</guid>
         
+        
+        <category>blog</category>
         
       </item>
       
@@ -165,6 +171,8 @@
         <guid isPermaLink="true">http://michaelmaurer.me/blog/figure-with-caption/</guid>
         
         
+        <category>blog</category>
+        
       </item>
       
     
@@ -194,6 +202,8 @@
         <guid isPermaLink="true">http://michaelmaurer.me/blog/image-in-post/</guid>
         
         
+        <category>blog</category>
+        
       </item>
       
     
@@ -220,6 +230,8 @@
         <link>http://michaelmaurer.me/blog/test-post/</link>
         <guid isPermaLink="true">http://michaelmaurer.me/blog/test-post/</guid>
         
+        
+        <category>blog</category>
         
       </item>
       
